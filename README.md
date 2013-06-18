@@ -1,7 +1,7 @@
 Silverlight UI Virtualization and ASP.net and Silverlight Communication
 ============
 
-This Repository consists of code for to how to Implement Silverlight UI and Data virtualization with communication of ASP.NET and Silverligt
+This Repository consists of code for to how to Implement Silverlight UI and Data virtualization with communication of ASP.NET - Silverligt
 
 Contents
 =============
